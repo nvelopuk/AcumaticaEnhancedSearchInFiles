@@ -10,5 +10,8 @@ Two addtional buttons are added to the SM202520 screen. Both require the user to
 # Future Improvements
 - When deleting file revisions, allow the user to select which revisions to delete or the number of revisions to keep.
 
+# Limitations
+- Use at own risk, no warranty expressed or implied
+
 
 
